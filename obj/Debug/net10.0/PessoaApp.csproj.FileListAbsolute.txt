@@ -12,3 +12,4 @@ C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\obj\Debug\net10.
 C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\obj\Debug\net10.0\PessoaApp.pdb
 C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\obj\Debug\net10.0\PessoaApp.genruntimeconfig.cache
 C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\obj\Debug\net10.0\ref\PessoaApp.dll
+C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\obj\Debug\net10.0\PessoaApp.sourcelink.json
