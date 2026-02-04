@@ -1,0 +1,14 @@
+C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\bin\Debug\net10.0\PessoaApp.exe
+C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\bin\Debug\net10.0\PessoaApp.deps.json
+C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\bin\Debug\net10.0\PessoaApp.runtimeconfig.json
+C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\bin\Debug\net10.0\PessoaApp.dll
+C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\bin\Debug\net10.0\PessoaApp.pdb
+C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\obj\Debug\net10.0\PessoaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\obj\Debug\net10.0\PessoaApp.AssemblyInfoInputs.cache
+C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\obj\Debug\net10.0\PessoaApp.AssemblyInfo.cs
+C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\obj\Debug\net10.0\PessoaApp.csproj.CoreCompileInputs.cache
+C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\obj\Debug\net10.0\PessoaApp.dll
+C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\obj\Debug\net10.0\refint\PessoaApp.dll
+C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\obj\Debug\net10.0\PessoaApp.pdb
+C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\obj\Debug\net10.0\PessoaApp.genruntimeconfig.cache
+C:\Users\Computador\Documents\Estudos Rodrigo\Tarefas\PessoaApp\obj\Debug\net10.0\ref\PessoaApp.dll
